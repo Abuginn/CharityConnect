@@ -10,6 +10,7 @@ import java.awt.Image;
 /**
  *
  * @author aruja
+ * eeeeee
  */
 public class Main extends javax.swing.JFrame {
     
