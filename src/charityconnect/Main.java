@@ -77,7 +77,7 @@ public class Main extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         btnSearch.setBackground(new java.awt.Color(255, 255, 255));
-        btnSearch.setText("img");
+        btnSearch.setText("search btn");
         btnSearch.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         btnSearch.setOpaque(true);
         btnSearch.addMouseListener(new java.awt.event.MouseAdapter() {
